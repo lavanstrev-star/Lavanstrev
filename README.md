@@ -51,7 +51,7 @@
    <section data-template-id="hero-section" class="canva-section relative overflow-hidden w-full glow" style="background:#33333F">
     <div class="max-w-7xl mx-auto px-5 sm:px-8 py-16 md:py-24 grid lg:grid-cols-2 gap-12 items-center">
      <div>
-      <span data-template-id="hero-eyebrow" class="canva-tag reveal d1 inline-block px-4 py-1.5 rounded-full text-xs font-semibold tracking-widest uppercase mb-6" style="background: rgba(45, 212, 168, 0.15); color: rgb(45, 212, 168); font-weight: 600; font-style: normal; font-size: 16px;">Digital Marketing &amp; Web Development</span>
+      <span data-template-id="hero-eyebrow" class="canva-tag reveal d1 inline-block px-4 py-1.5 rounded-full text-xs font-semibold tracking-widest uppercase mb-6" style="background: rgba(45, 212, 168, 0.15); color: rgb(45, 212, 168); font-weight: 600; font-style: normal; font-size: 28px;">Digital Marketing &amp; Web Development</span>
       <h1 data-template-id="hero-title" class="canva-text display reveal d2 leading-tight mb-6" style="color: rgb(255, 255, 255); font-weight: 700; font-style: normal; font-size: 32px;">We build brands that bring luck.</h1>
       <p data-template-id="hero-subtitle" class="canva-text reveal d3 text-lg leading-relaxed max-w-xl mb-8" style="color: rgb(201, 201, 212); font-weight: 400; font-style: normal; font-size: 16px;">Lav Anstrev crafts high-performing websites and data-driven marketing campaigns that grow your business and turn attention into loyal customers.</p>
       <div class="flex flex-wrap gap-4 reveal d4">
