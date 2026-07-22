@@ -1,6 +1,5 @@
-# Lavanstrev
 <!doctype html>
-<html lang="en"><head><script>window["__codeletBootstrap__"]=JSON.parse('{"A":"A","B":"20260721-23-5f0351f"}');</script><script src="/_sdk/e358eac22bd01364.telemetry_sdk.js" integrity="sha512-KPxp3rw4K8Nu9ceWJc3gyM7srgaZxiFWOVbyu260EYzzAqdz10mfo5xyXrCx+wEKtGo77JbtmwXvFLbwrGzwvw=="></script>
+<html lang="en"><head><script>window["__codeletBootstrap__"]=JSON.parse('{"A":"A","B":"20260722-05-f3252b3"}');</script><script src="/_sdk/e358eac22bd01364.telemetry_sdk.js" integrity="sha512-KPxp3rw4K8Nu9ceWJc3gyM7srgaZxiFWOVbyu260EYzzAqdz10mfo5xyXrCx+wEKtGo77JbtmwXvFLbwrGzwvw=="></script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Lav Anstrev — Digital Marketing &amp; Web Development</title>
@@ -35,7 +34,7 @@
   <header id="top" class="sticky top-0 z-50 w-full backdrop-blur-md transition-shadow" style="background:rgba(42,42,52,.85)">
    <nav class="max-w-7xl mx-auto px-5 sm:px-8 py-5 flex items-center justify-between">
     <a href="#top" class="flex items-center shrink-0 gap-3">
-     <div class="flex flex-col gap-0"><img data-template-id="brand-logo" class="canva-image h-16 w-auto object-contain" loading="lazy" alt="Lav Anstrev logo" src="https://imgur.com/a/rdLNDo8">
+     <div class="flex flex-col gap-0"><img data-template-id="brand-logo" class="canva-image h-16 w-auto object-contain" loading="lazy" alt="Lav Anstrev logo" src="canva://MAHLkJ-xGpE/1">
       <p data-template-id="header-tagline" class="canva-text text-xs leading-none opacity-80 hidden sm:block" style="color: rgb(201, 201, 212); font-weight: 400; font-style: normal; font-size: 16px;">Digital marketing that brings luck.</p>
      </div></a>
     <div class="hidden md:flex items-center gap-8">
@@ -51,7 +50,7 @@
    <section data-template-id="hero-section" class="canva-section relative overflow-hidden w-full glow" style="background:#33333F">
     <div class="max-w-7xl mx-auto px-5 sm:px-8 py-16 md:py-24 grid lg:grid-cols-2 gap-12 items-center">
      <div>
-      <span data-template-id="hero-eyebrow" class="canva-tag reveal d1 inline-block px-4 py-1.5 rounded-full text-xs font-semibold tracking-widest uppercase mb-6" style="background: rgba(45, 212, 168, 0.15); color: rgb(45, 212, 168); font-weight: 600; font-style: normal; font-size: 28px;">Digital Marketing &amp; Web Development</span>
+      <span data-template-id="hero-eyebrow" class="canva-tag reveal d1 inline-block px-4 py-1.5 rounded-full text-xs font-semibold tracking-widest uppercase mb-6" style="background: rgba(45, 212, 168, 0.15); color: rgb(45, 212, 168); font-weight: 600; font-style: normal; font-size: 16px;">Digital Marketing &amp; Web Development</span>
       <h1 data-template-id="hero-title" class="canva-text display reveal d2 leading-tight mb-6" style="color: rgb(255, 255, 255); font-weight: 700; font-style: normal; font-size: 32px;">We build brands that bring luck.</h1>
       <p data-template-id="hero-subtitle" class="canva-text reveal d3 text-lg leading-relaxed max-w-xl mb-8" style="color: rgb(201, 201, 212); font-weight: 400; font-style: normal; font-size: 16px;">Lav Anstrev crafts high-performing websites and data-driven marketing campaigns that grow your business and turn attention into loyal customers.</p>
       <div class="flex flex-wrap gap-4 reveal d4">
@@ -161,13 +160,13 @@
   <footer data-template-id="site-footer" class="canva-footer w-full" style="background:#2A2A34">
    <div class="max-w-7xl mx-auto px-5 sm:px-8 py-12 flex flex-col md:flex-row items-center justify-between gap-6">
     <div class="flex items-center gap-3">
-     <img data-template-id="footer-logo" class="canva-image h-9 w-auto object-contain" loading="lazy" alt="Lav Anstrev logo" src="https://imgur.com/a/rdLNDo8">
+     <img data-template-id="footer-logo" class="canva-image h-9 w-auto object-contain" loading="lazy" alt="Lav Anstrev logo" src="canva://MAHLkJ-xGpE/1">
     </div>
     <p data-template-id="footer-tagline" class="canva-text text-sm opacity-70 text-center" style="color: rgb(201, 201, 212); font-weight: 400; font-style: normal; font-size: 16px;">Digital marketing that brings luck.</p>
     <p data-template-id="footer-copyright" class="canva-text text-xs opacity-50" style="color: rgb(154, 154, 168); font-weight: 400; font-style: normal; font-size: 16px;">© 2026 Lav Anstrev. All rights reserved.</p>
    </div>
   </footer>
-  <script src="/_sdk/0f4e280158c633fe.editing_sdk.js" integrity="sha512-F0sZ+NfYZzSyvV6xdBmmBvV6+/KD8r/g7oBj4e1kS+8L/5kx0Z22KAGhjidtLKf1cW/+yhTqC4xq0USY6Pdyog=="></script>
+  <script src="/_sdk/47669dc8496955be.editing_sdk.js" integrity="sha512-SXgqvNdy3CX4R90Kr2d0cSNYZOv6KbcxTq/tprZCtYPHhvtgc5Aagp95xl8W/LNBFpixAlLGqjQW133qbh1QAg=="></script>
   <script>
     lucide.createIcons();
 
