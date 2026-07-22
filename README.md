@@ -35,7 +35,7 @@
   <header id="top" class="sticky top-0 z-50 w-full backdrop-blur-md transition-shadow" style="background:rgba(42,42,52,.85)">
    <nav class="max-w-7xl mx-auto px-5 sm:px-8 py-5 flex items-center justify-between">
     <a href="#top" class="flex items-center shrink-0 gap-3">
-     <div class="flex flex-col gap-0"><img data-template-id="brand-logo" class="canva-image h-16 w-auto object-contain" loading="lazy" alt="Lav Anstrev logo" src="canva://MAHLkJ-xGpE/1">
+     <div class="flex flex-col gap-0"><img data-template-id="brand-logo" class="canva-image h-16 w-auto object-contain" loading="lazy" alt="Lav Anstrev logo" src="https://imgur.com/a/rdLNDo8">
       <p data-template-id="header-tagline" class="canva-text text-xs leading-none opacity-80 hidden sm:block" style="color: rgb(201, 201, 212); font-weight: 400; font-style: normal; font-size: 16px;">Digital marketing that brings luck.</p>
      </div></a>
     <div class="hidden md:flex items-center gap-8">
@@ -161,7 +161,7 @@
   <footer data-template-id="site-footer" class="canva-footer w-full" style="background:#2A2A34">
    <div class="max-w-7xl mx-auto px-5 sm:px-8 py-12 flex flex-col md:flex-row items-center justify-between gap-6">
     <div class="flex items-center gap-3">
-     <img data-template-id="footer-logo" class="canva-image h-9 w-auto object-contain" loading="lazy" alt="Lav Anstrev logo" src="canva://MAHLkJ-xGpE/1">
+     <img data-template-id="footer-logo" class="canva-image h-9 w-auto object-contain" loading="lazy" alt="Lav Anstrev logo" src="https://imgur.com/a/rdLNDo8">
     </div>
     <p data-template-id="footer-tagline" class="canva-text text-sm opacity-70 text-center" style="color: rgb(201, 201, 212); font-weight: 400; font-style: normal; font-size: 16px;">Digital marketing that brings luck.</p>
     <p data-template-id="footer-copyright" class="canva-text text-xs opacity-50" style="color: rgb(154, 154, 168); font-weight: 400; font-style: normal; font-size: 16px;">© 2026 Lav Anstrev. All rights reserved.</p>
